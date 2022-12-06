@@ -1,1 +1,5 @@
-console.log('shjsh7s')
+let subscribed = true
+
+if (subscribed === true) {
+    console.log('show the video')
+}
