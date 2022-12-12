@@ -1,5 +1,5 @@
-function sumOfTwoNumbers (num1, num2) {
-    return num1 + num2
+const convertCelsiusToFahrenheit = () => {
+return 'celsius * 1.8 + 32'
 }
 
-console.log(sumOfTwoNumbers(10, 10));
+console.log(convertCelsiusToFahrenheit(0));
